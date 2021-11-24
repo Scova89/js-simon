@@ -1,10 +1,8 @@
 const numCasuali = [];
 
-numCasuali.push(genNumCasuali(1, 101));
 
-
-
-for(let i = 0; i < numCasuali.length; i++){
+for(let i = 0; i < 5; i++){
+    numCasuali.push(genNumCasuali(1, 101));
     console.log(numCasuali[i]);
 }
 
