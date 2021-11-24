@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container-num{
+    width: 300px;
+    height: 150px;
+    background-color: grey;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    line-height: 150px;
+    color: white;
+    font-size: 20pt;
+}
